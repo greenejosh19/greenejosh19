@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Josh 👋  
+I’m currently pursuing my Master’s in Cybersecurity at the University of Nebraska Omaha.  
+My focus areas include cloud infrastructure, network defense, and automation.  
 
-<!--
-**greenejosh19/greenejosh19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Cybersecurity Projects  
+
+---
+
+### 🌐 Connect with Me  
+[LinkedIn](https://www.linkedin.com/in/joshua-greene-b26178304)  
+[Email](mailto:greenejosh7419@gmail.com)

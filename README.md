@@ -1,6 +1,6 @@
 # Hi, I'm Josh 👋  
 I’m currently pursuing my Master’s in Cybersecurity at the University of Nebraska Omaha.  
-My focus areas include cloud infrastructure, network defense, and automation.  
+
 
 
 ---
